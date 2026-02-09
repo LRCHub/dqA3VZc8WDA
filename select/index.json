@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ERASE",
+  "base_artist": "THE ORAL CIGARETTES",
+  "createdAt": "2026-02-09T20:56:01.734010Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Erase Your Social",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/01_Erase_Your_Social_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Erase You",
+      "artist": "DJ Shadow feat. Chris James",
+      "has_synced": false,
+      "path": "select/02_Erase_You_DJ_Shadow_feat._Chris_James.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Erase You",
+      "artist": "DJ Shadow",
+      "has_synced": false,
+      "path": "select/03_Erase_You_DJ_Shadow.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Erase Your Face",
+      "artist": "Atari Teenage Riot",
+      "has_synced": false,
+      "path": "select/04_Erase_Your_Face_Atari_Teenage_Riot.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Race To Erase",
+      "artist": "Son Lux",
+      "has_synced": true,
+      "path": "select/05_Race_To_Erase_Son_Lux.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Erase The Sun",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/06_Erase_The_Sun_Beck.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Erase the Sun (Faster Version)",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/07_Erase_the_Sun_(Faster_Version)_Beck.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Full Mental Erase",
+      "artist": "Caroline Polachek",
+      "has_synced": false,
+      "path": "select/08_Full_Mental_Erase_Caroline_Polachek.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Erase / Rewind",
+      "artist": "The Cardigans",
+      "has_synced": true,
+      "path": "select/09_Erase___Rewind_The_Cardigans.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Erase\u0000Rewind",
+      "artist": "The Cardigans",
+      "has_synced": true,
+      "path": "select/10_Erase\u0000Rewind_The_Cardigans.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Erase\u0000Rewind",
+      "artist": "The Cardigans",
+      "has_synced": true,
+      "path": "select/11_Erase\u0000Rewind_The_Cardigans.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Erase\u0000Rewind",
+      "artist": "The Cardigans",
+      "has_synced": true,
+      "path": "select/12_Erase\u0000Rewind_The_Cardigans.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Erase/Rewind (Cut la Roc Vocal Mix)",
+      "artist": "The Cardigans",
+      "has_synced": false,
+      "path": "select/13_Erase_Rewind_(Cut_la_Roc_Vocal_Mix)_The_Cardigans.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Erase\u0000Rewind (Cut La Roc Vocal Mix)",
+      "artist": "The Cardigans",
+      "has_synced": false,
+      "path": "select/14_Erase\u0000Rewind_(Cut_La_Roc_Vocal_Mix)_The_Cardigans.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Erase / Rewind - Nåid Remix",
+      "artist": "The Cardigans",
+      "has_synced": false,
+      "path": "select/15_Erase___Rewind_-_Nåid_Remix_The_Cardigans.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Erase\u0000Rewind (Naid remix)",
+      "artist": "The Cardigans",
+      "has_synced": false,
+      "path": "select/16_Erase\u0000Rewind_(Naid_remix)_The_Cardigans.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Erase\u0000Rewind (live, acoustic)",
+      "artist": "The Cardigans",
+      "has_synced": true,
+      "path": "select/17_Erase\u0000Rewind_(live,_acoustic)_The_Cardigans.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Erase\u0000Rewind (remix by Nåid)",
+      "artist": "The Cardigans",
+      "has_synced": false,
+      "path": "select/18_Erase\u0000Rewind_(remix_by_Nåid)_The_Cardigans.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ERASE",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": false,
+      "path": "select/pl_01_ERASE_THE_ORAL_CIGARETTES.txt"
+    }
+  ]
+}
